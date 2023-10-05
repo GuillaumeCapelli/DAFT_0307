@@ -1,0 +1,19 @@
+1) Security footage shows that there were 2 witnesses. The first witness lives at the last house on "Northwestern Dr". The second witness, named Annabel, lives somewhere on "Franklin Ave".
+
+2) 
+First 14887 : "I heard a gunshot and then saw a man run out. He had a "Get Fit Now Gym" bag. The membership number on the bag started with "48Z". Only gold members have those bags. The man got into a car with a plate that included "H42W"." 
+
+Second 16371 : "I saw the murder happen, and I recognized the killer from my gym when I was working out last week on January the 9th."
+
+3)
+
+person_id	name
+55662	Sarita Bartosh
+83186	Burton Grippe
+92736	Carmen Dimick
+28819	Joe Germuska
+67318	Jeremy Bowers
+16371	Annabel Miller
+
+4)
+I was hired by a woman with a lot of money. I don't know her name but I know she's around 5'5" (65") or 5'7" (67"). She has red hair and she drives a Tesla Model S. I know that she attended the SQL Symphony Concert 3 times in December 2017. 
